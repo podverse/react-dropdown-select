@@ -605,7 +605,6 @@ Select.defaultProps = {
   additionalProps: null,
   backspaceDelete: true,
   compareValuesFunc: isEqual,
-  dropdownAriaDescription: 'Press the enter key or down arrow to show the dropdown menu. Then use the tab key, or up and down arrows to focus on the dropdown items.'
 };
 
 const ReactDropdownSelect = styled.div`
